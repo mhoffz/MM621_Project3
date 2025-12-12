@@ -172,7 +172,7 @@ function draw() {
 
   if (started){
     textAlign(LEFT);
-    fill(100);
+    fill(90);
     noStroke();
     textSize(17);
     textFont('tahoma');
